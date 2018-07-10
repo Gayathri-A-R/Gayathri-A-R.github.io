@@ -14,7 +14,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Don't worry, we are hear to help you...
   We Serve You the Best to Make You the Best.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "http://cloudburst.com" # the base hostname & protocol for your site
 twitter_username: cloud_Burst
 github_username:  CloudBurst
 
