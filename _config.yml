@@ -21,4 +21,4 @@ github_username:  Jekyll
 # Build settings
 markdown: kramdown
 
-theme: jekyll-theme-cayman
+theme: jekyll-theme-hacker
